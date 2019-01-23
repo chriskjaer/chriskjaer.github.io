@@ -22,8 +22,8 @@ module.exports = {
         name: `chriskjaer.dk`,
         short_name: `chriskjaer`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#24201a`,
+        theme_color: `#24201a`,
         display: `minimal-ui`,
         icon: `src/images/chriskjaer-logo.svg`, // This path is relative to the root of the site.
       },
